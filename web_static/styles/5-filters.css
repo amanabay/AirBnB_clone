@@ -30,16 +30,15 @@
 .locations {
     height: 100%;
     width: 25%;
-    padding-left: 50px;
     border-right: 1px solid #DDDDDD;
+    margin-left: 50px;
 }
 
 .amenities {
     height: 100%;
     width: 25%;
-    padding-left: 50px;
+    margin-left: -110px;
 }
-
 
 h3 {
     font-weight: 600;
